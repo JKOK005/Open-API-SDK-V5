@@ -2,7 +2,7 @@
 from setuptools import setup
 
 setup(
-    name='okex-api-v5',
+    name='okex',
     version='1.1.0',
     packages=['okx'],
     install_requires=['requests', 'websockets>=6.0']
